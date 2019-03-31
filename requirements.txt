@@ -1,2 +1,1 @@
-tensorflow >= 1.11.0   # CPU Version of TensorFlow.
-# tensorflow-gpu  >= 1.11.0  # GPU version of TensorFlow.
+<attachment contenteditable="false" data-atts="%5B%5D" data-aid=".atts-9e845816-96fa-4f0a-8619-c45f21e7650b"></attachment><p>tensorflow &gt;= 1.11.0 # CPU Version of TensorFlow. # tensorflow-gpu &gt;= 1.11.0 # GPU version of TensorFlow.</p><p><br></p>
